@@ -101,6 +101,7 @@ Accuracy Score
 Results
 
 Model	Accuracy (%)
+
 Gradient Boosting Classifier	91.45
 Support Vector Machine (SVM)	90.79
 ✅ Gradient Boosting Classifier performed best and was selected as the final model.
